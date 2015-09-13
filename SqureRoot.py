@@ -12,4 +12,4 @@ while abs(diff) > epsilon:  # done?
     diff = guess * guess - x
 
 # compare with sqrt
-print( "result: ", guess )
+print("result: ", guess)

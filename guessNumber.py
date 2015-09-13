@@ -3,7 +3,7 @@ import random
 
 # randomize a number
 computer_num = random.randint(0, 50)
-#print(computer_num)
+# print(computer_num)
 
 # Get input
 my_guess = int(input("Input your guess: "))
