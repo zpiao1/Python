@@ -6,13 +6,15 @@ for level in range(1, Nlevels + 1):
 
     # Skip the whitespace at each level
     skip = Nlevels - level
-    for x in range(skip):
+    while skip > 0:
         print(" ", end="")
+        skip -= 1
 
     # Print the stars at each level
     num = 2 * level - 1
-    for x in range(num):
+    while num > 0:
         print("*", end="")
+        num -= 1
 
     # Next line
     print()
