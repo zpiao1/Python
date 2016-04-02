@@ -1,0 +1,3 @@
+There are three lines in this file. This is the first line.
+This is the second line. Are there altogether 7 punctuations in this text?
+Yes, there are! There are 35 words in this file!

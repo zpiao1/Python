@@ -1,0 +1,6 @@
+This is a same line.
+This is a same line.
+This is a different line in Text1.txt
+This is a different line in Text1.txt
+This is a same line.
+This is a different line in Text1.txt
